@@ -1,1 +1,4 @@
 venv/
+cases/.DS_Store
+.DS_Store
+open_ai_key.txt
